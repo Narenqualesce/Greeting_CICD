@@ -1,0 +1,6 @@
+{
+  "Name": "GIT CICD",
+  "ProjectType": "Process",
+  "Description": "Blank Process",
+  "MainFile": "Main.xaml"
+}
